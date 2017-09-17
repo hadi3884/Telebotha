@@ -14,7 +14,7 @@ Telegram Antispam
 <pre>
 <span>cd $HOME</span>
 <span>git clone https://github.com/akbarazimifar/TeleBot</span>
-<span>cd CliBot</span>
+<span>cd Telebot</span>
 <span>chmod +x launch.sh</span>
 <span>./launch.sh install</span>
 <span>./launch.sh</span>
