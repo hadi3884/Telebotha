@@ -83,20 +83,20 @@ function create_config( )
 	"write",
 	"ping"	
 	},
-    sudo_users = {418499222},
-    admins = {},
-    disabled_channels = {},
+    sudo_users = {6359600696:AAGRrSM4bsRGOdaE_mrqdrqK8RPFpzYJDrc},
+    admins = {6548086124},
+    disabled_channels = {@bazaralshtar09},
     moderation = {data = './data/moderation.json'},
     info_text = [[》Telebot v.1
 
 
-》https://github.com/akbarazimifar/Telebot
+》https://github.com/hadi3884/Telebotha
 
 》Admins :
-》@akbarazimifar 《
+》@axm980 《
 		
 》channel :
-》@azimifar_akbar
+》@bazaralshtar09
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
